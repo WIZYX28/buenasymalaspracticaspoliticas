@@ -15,3 +15,14 @@
 	border-bottom: 5px solid #e0220a;
 	padding: 10px 0;
 }
+
+#caja-presentacion {
+	width: 470px;
+	float: left;
+}
+
+#caja-presentacion {
+	font-size: 41px;
+	color: azure;
+	font-weight: bolder;
+}
